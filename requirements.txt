@@ -6,3 +6,4 @@ pypdf
 langchain_google_genai
 langchain-chroma
 langchain-huggingface
+langchain_openai
