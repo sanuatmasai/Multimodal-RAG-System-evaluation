@@ -1,0 +1,8 @@
+fastapi[standard]
+langchain
+langchain-community
+dotenv
+pypdf
+langchain_google_genai
+langchain-chroma
+langchain-huggingface
